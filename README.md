@@ -1,4 +1,7 @@
 # hello-world
-Bu bir denemedir
+
+Bu bir deneme uygulamasıdır
 
 CI uygulaması için deneme sayfası
+
+ORHAN DİKTAŞ
