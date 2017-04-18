@@ -1,1 +1,1 @@
-compile: 
+general: build_dir: api
