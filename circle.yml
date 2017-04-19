@@ -1,5 +1,7 @@
-general: build_dir: api
-
 machine:
   ruby:
-    version: 2.4.0
+    version: 2.3.1
+test:
+  override:
+    - bundle exec rake ci:
+        parallel: true
