@@ -1,1 +1,5 @@
 general: build_dir: api
+
+machine:
+  ruby:
+    version: 2.4.0
