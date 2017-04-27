@@ -1,8 +1,4 @@
-deployment:
-production:
 branch: master
-commands:
-
 
 test:
 override:
