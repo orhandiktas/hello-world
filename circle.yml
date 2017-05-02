@@ -1,6 +1,6 @@
 machine:
   timezone:
-    America/Los_Angeles
+    Europe/Istanbul
   ruby:
     version: 1.9.3-p0-falcon
 
