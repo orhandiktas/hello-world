@@ -2,8 +2,8 @@ machine:
   timezone:
     Europe/Istanbul
   ruby:
-    version: 1.9.3-p0-falcon
+    version: 2.7.12
 
 test:
-  post:
-    - bundle exec rake custom:test:suite
+  #override:
+    - nosetests	
