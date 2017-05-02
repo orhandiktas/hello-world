@@ -6,5 +6,5 @@ machine:
 
 test:
   override:
-  - echo "test"
+  - echo "Bu bir deneme testidir..."
     
